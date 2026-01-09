@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: ab30f09d-07cc-464e-8c69-e330f33b143a
-  WEBAPP-NAME: eshoponweb-webapp-ghdeployazure
+  WEBAPP-NAME: eshoponweb-webapp-ghdeployazure1
 
 jobs:
   #Build, test and publish .net web project in repository
